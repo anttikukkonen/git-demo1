@@ -6,7 +6,7 @@ Library   Dialogs
 Test Setup   Common.Beging Web Test
 Test Teardown  Common.End web test
 
-
+# robot -d results tests/amazon.robot
 
 *** Variables ***
 ${Time} =   Get Current Date
