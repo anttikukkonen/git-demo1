@@ -16,8 +16,8 @@ ${BROWSER} =  firefox
 *** Test Cases ***
 
 Search product
-    ${new_browser} =  Get Selection From User   Which browser?   chrome    ie   firefox
-    Set Global Variable   ${BROWSER}    ${new_browser}
+    #${new_browser} =  Get Selection From User   Which browser?   chrome    ie   firefox
+   # Set Global Variable   ${BROWSER}    ${new_browser}
     Amazon.Search For product
 
 
