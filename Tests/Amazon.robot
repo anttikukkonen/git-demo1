@@ -28,6 +28,9 @@ User must sign in to check out
     Amazon.Add product to cart
     Amazon.Beging check out
 
+Feature 2 Test
+    Log    feat2 test
+
 
 
 
